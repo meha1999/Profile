@@ -1,0 +1,14 @@
+.head {
+  background-color: white;
+}
+.img{
+    border-radius: 10px;
+    padding-bottom: 50px;
+    
+}
+.text{
+    color: white !important;
+}
+.name{
+    color: turquoise;
+}
